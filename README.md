@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Senior+Full+Stack+Engineer+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%E2%9B%93;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Production+Products+%F0%9F%9B%A0%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&repeat=true&width=700&lines=Full+Stack+Engineer+%F0%9F%9A%80;Web3+%26+Blockchain+Explorer+%E2%9B%93;Building+Scalable+Cloud-Native+Systems+%E2%98%81%EF%B8%8F;Turning+Ideas+Into+Production+Products+%F0%9F%9B%A0%EF%B8%8F;Open+Source+Contributor+%F0%9F%8C%8D" alt="Typing SVG" />
   </a>
 </p>
 
@@ -59,7 +59,7 @@
 ## 🧬 About Me
 
 <p align="left">
-I'm a <strong>Senior Full Stack Engineer</strong> with over five years of experience designing and delivering production-grade systems across fintech, SaaS, and e-commerce verticals. My engineering philosophy is rooted in writing clean, scalable, and maintainable code — from pixel-perfect frontend interfaces to highly available backend microservices.
+I'm a <strong> Full Stack Engineer</strong> with over one years of experience designing and delivering production-grade systems across fintech, SaaS, and e-commerce verticals. My engineering philosophy is rooted in writing clean, scalable, and maintainable code — from pixel-perfect frontend interfaces to highly available backend microservices.
 
 Currently, I am deepening my expertise in <strong>Web3 and Blockchain engineering</strong> — exploring smart contract development with Solidity, DeFi protocol architecture, and decentralized application (dApp) design patterns. I bring a product-first mindset to every project: shipping fast, iterating with data, and building with end users at the center.
 
@@ -240,15 +240,6 @@ An open-source, self-hosted observability platform for engineering teams — agg
 
 <div align="center">
 
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Vue 3, Fastify, ClickHouse, Prometheus, Grafana, Python, OpenTelemetry, Docker |
-| **Scale** | 200M+ events/month ingestion · 48 monitored services · Sub-5s alert delivery |
-| **Performance** | ClickHouse query p95 under 120ms · Streaming dashboards via WebSocket |
-| **Security** | Team-scoped access · Audit logging · Secret rotation · Encrypted alert channels |
-| **Impact** | Reduced MTTR (Mean Time to Resolution) by 55% across monitored teams |
-| **Repository** | [github.com/smriti-adhikari/pulsemetrics](https://github.com/smriti-adhikari/pulsemetrics) |
-
 </div>
 
 PulseMetrics is built around OpenTelemetry as the unified instrumentation standard, ingesting data from any language or framework via the OTLP protocol. The AI anomaly detection layer uses a lightweight time-series forecasting model trained per service to surface contextual alerts — reducing noise by 73% compared to static threshold alerts. It ships as a single `docker-compose up` for instant local deployment.
@@ -256,141 +247,6 @@ PulseMetrics is built around OpenTelemetry as the unified instrumentation standa
 <br/>
 
 </details>
-
-<br/>
-
----
-
-## 💼 Experience
-
-### Senior Full Stack Engineer · CloudNova Technologies
-**Jan 2022 – Present · Remote**
-
-Led engineering for a multi-tenant SaaS infrastructure platform serving 200+ enterprise clients across APAC and the Middle East. Owned end-to-end product development from architecture decisions to production deployments on AWS ECS and Kubernetes.
-
-- Architected and shipped a real-time collaborative document editor (OT algorithm) used by 40K+ daily active users with zero data conflicts
-- Migrated a monolithic Django application to 11 domain-driven microservices, reducing deployment frequency from biweekly to 30+ deploys/day
-- Implemented a Kafka-based event streaming pipeline processing 800K+ events/day with sub-50ms consumer lag
-- Introduced feature flagging (LaunchDarkly) and canary deployment workflows, reducing production incident rate by 62%
-- Mentored a team of 4 junior and mid-level engineers through weekly code reviews, architectural walkthroughs, and pair programming
-
-<p>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-<br/>
-
-### Full Stack Engineer · FinBridge Labs
-**Jul 2020 – Dec 2021 · Bengaluru, India**
-
-Joined as a founding engineer at a Series A fintech startup building a digital lending and credit scoring platform for underserved MSMEs. Owned the full product frontend and core backend API services.
-
-- Built a real-time credit decisioning engine integrating 6 bureau APIs and alternate data sources, processing 3,000+ loan applications/day
-- Designed a rule-based fraud detection module that flagged 94% of fraudulent applications before underwriting, saving $180K+ in potential losses
-- Developed a mobile-first borrower portal (React Native) with offline loan application support — achieving 4.8-star rating on the Play Store
-- Integrated UPI, NACH mandate, and Razorpay disbursement flows, reducing onboarding-to-disbursal from 7 days to 4 hours
-- Established engineering practices: CI/CD via GitHub Actions, test coverage gates (>80%), and Sentry-based error monitoring
-
-<p>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/React%20Native-61DAFB?style=flat-square&logo=react&logoColor=black" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
-</p>
-
-<br/>
-
-### Software Engineer · Infosys Limited
-**Aug 2019 – Jun 2020 · Pune, India**
-
-Contributed to digital transformation engagements for a Fortune 500 retail client, building RESTful APIs and data integration layers as part of a 25-person delivery team.
-
-- Delivered 14 REST API endpoints for inventory management consumed by 3 downstream frontend teams
-- Optimized legacy SQL queries across 8 critical reports, reducing average execution time from 12s to under 800ms
-- Participated in agile ceremonies (2-week sprints), maintained test coverage above 85% using JUnit and Mockito
-
-<p>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
-</p>
-
-<br/>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-| 🥇 Recognition | Details |
-|:---|:---|
-| **Top 5% GitHub Developer** | Ranked by contribution consistency, repository quality, and community engagement |
-| **Smart Contract Audit Contributor** | Identified 3 critical vulnerabilities in open-source DeFi protocol during community audit |
-| **Hackathon Winner — ETHIndia 2023** | 1st Place in DeFi Track · Built cross-chain lending protocol in 36 hours |
-| **Open Source Impact** | 800+ GitHub stars across personal projects · 40+ merged PRs to major OSS repos |
-| **Technical Author** | 12 published engineering articles · 22K+ total reads on Hashnode & Dev.to |
-| **System Design Mentor** | Mentored 60+ engineers via structured 1:1 sessions and cohort programs |
-| **Performance Engineering Award** | Recognized at CloudNova for 62% reduction in production incident rate in FY2023 |
-| **LeetCode Top 8%** | 600+ problems solved · Knight badge holder |
-
-</div>
-
-<br/>
-
----
-
-## 📜 Certifications
-
-<p align="center"><strong>Amazon Web Services</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Developer-Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-Foundational-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
-</p>
-
-<br/>
-
-<p align="center"><strong>Oracle</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Java%20SE-Professional-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure-Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
-
-<br/>
-
-<p align="center"><strong>NPTEL · IIT</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/NPTEL-Data%20Structures%20%26%20Algorithms-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Cloud%20Computing-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/NPTEL-Programming%20in%20Python-7C3AED?style=for-the-badge&logo=academia&logoColor=white" />
-</p>
-
-<br/>
-
-<p align="center"><strong>Cisco Networking Academy</strong></p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Cisco-CCNA%20Routing%20%26%20Switching-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Cisco-Cybersecurity%20Essentials-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-</p>
 
 <br/>
 
